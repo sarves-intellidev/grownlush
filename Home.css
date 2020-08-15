@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(90deg, #f5f4f3, #23d5ab);
+}
+
+.pic__div{
+    display: flex;
+}
+
+.home__logo{
+    margin-left: 320px;
+    margin-top: 50px;
+    height: 60px;
+}
+
+.home__text2{
+    width:100px;
+    margin-top:5px;
+    margin-left: 325px;
+}
+
+.home__text{
+    width:100px;
+    margin-top:5px;
+    margin-left: 327px;
+}
+
+.template__pic{
+    height: 470px;
+    margin-left: 255px;
+    margin-top: 40px;
+}
+
+.home__quote{
+    height: 370px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
